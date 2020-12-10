@@ -1,0 +1,23 @@
+.img-title{
+    width: 70%;
+}
+
+section {
+    display: grid;
+    grid-template: auto / repeat(3,30%);
+}
+
+article {
+    
+    border: 1px solid gray;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+    
+
+/*
+main{
+    display: flex;
+    flex-direction: row;
+}
+*/
