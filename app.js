@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/albums', (req, res) => {
-  const item = data.albums.find(p => p.id == req.query.id);
+  const item = data.albums.find(p => p.id === req.query.id);
   res.render('albums', {
     item
   });

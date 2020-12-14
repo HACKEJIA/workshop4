@@ -1,5 +1,14 @@
 .img-title{
-    width: 20%;
+    width: 305px;
+    position: relative;
+    /* margin: left; */
+}
+
+.img-logo{
+    
+    width: 85px;
+    margin: auto;
+    /* margin: right;  */ 
 }
 
 /*section {
@@ -14,4 +23,14 @@ article {
     /*margin: 1em;*/
     /*padding: 0.5em;*/
     text-align: center;
+}
+
+h1 {
+    font-color: black;
+    font-family: 'Lobster', cursive;
+}
+
+h2 {
+    font-color: red;
+    font-family: 'Lobster', cursive;
 }

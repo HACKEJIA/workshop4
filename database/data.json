@@ -16,7 +16,9 @@
       "description": "reprehenderit est deserunt velit ipsam",
       "url": "https://via.placeholder.com/600/771796",
       "thumbnailUrl": "https://via.placeholder.com/150/771796",
-      "artist": "771796"
+      "artist": "771796",
+      "audio": "/audio/daft-punk.mp3",
+      "video":"/video/daft-punk.mp4"
     },
     {
       "id": "3",
@@ -24,7 +26,9 @@
       "description": "officia porro iure quia iusto qui ipsa ut modi",
       "url": "https://via.placeholder.com/600/24f355",
       "thumbnailUrl": "https://via.placeholder.com/150/24f355",
-      "artist": "24f355"
+      "artist": "24f355",
+      "audio": "/audio/queen.mp3",
+      "video":"/video/queen.mp4"
     },
     {
       "id": "4",
